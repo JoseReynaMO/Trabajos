@@ -1,5 +1,5 @@
 body {
-    background-color: #d5cece;
+    background-color: #ffffff;
 }
 
 a {
@@ -15,6 +15,12 @@ a {
         background-color: #808080;
     }
 
+#Icono1:hover {
+    text-decoration: underline;
+    background-color: #808080;
+    padding: 10px;
+}
+
 /*Images*/
 header {
     padding: 5px;
@@ -23,7 +29,7 @@ header {
 }
 
 #http {
-    width: 600px;
+    width: 300px;
     height: 300px;
 }
 
@@ -32,6 +38,7 @@ header {
     grid-template-columns: auto auto;
     grid-template-rows: auto auto;
     grid-row-gap: 20px;
+    grid-column-gap: 20px;
 }
 
 /*MOBILE SUPPORT*/
