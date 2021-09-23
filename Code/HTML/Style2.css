@@ -23,13 +23,19 @@ a {
 
 /*Images*/
 header {
-    padding: 5px;
+    padding: 10px;
     display: grid;
     place-content: center;
+    background-color: darkslategrey;
 }
 
 #http {
     width: 300px;
+    height: 300px;
+}
+
+#wth {
+    width: 600px;
     height: 300px;
 }
 
@@ -40,6 +46,7 @@ header {
     grid-row-gap: 20px;
     grid-column-gap: 20px;
 }
+
 
 /*MOBILE SUPPORT*/
 @media (max-width: 600px) {
