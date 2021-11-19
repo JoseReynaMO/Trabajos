@@ -5,11 +5,8 @@
     "\\N-Capas\\NCapas",
     "\\N-Capas\\NCapas\\App.Web",
     "\\N-Capas\\NCapas\\App.Web\\Controllers",
-    "\\N-Capas\\NCapas\\App.Web\\Views",
-    "\\N-Capas\\NCapas\\App.Web\\Views\\Home",
-    "\\N-Capas\\NCapas\\App.Web\\Views\\Shared",
-    "\\N-Capas\\NCapas\\App.Web\\Views\\Sucursales"
+    "\\N-Capas\\NCapas\\App.Web\\Views"
   ],
-  "SelectedNode": "\\N-Capas\\NCapas\\App.Web\\Views\\Sucursales\\AddOrEditBO.cshtml",
+  "SelectedNode": "\\N-Capas\\NCapas\\NCapas.sln",
   "PreviewInSolutionExplorer": false
 }
